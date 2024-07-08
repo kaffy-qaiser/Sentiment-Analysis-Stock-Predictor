@@ -38,7 +38,7 @@ This project is a dashboard that utilizes sentiment analysis from Reddit's r/wal
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/kaffy-qaiser/stock-price-prediction-dashboard.git
+    git clone https://github.com/kaffy-qaiser/Sentiment-Analysis-Stock-Predictor.git
     cd stock-price-prediction-dashboard
     ```
 
